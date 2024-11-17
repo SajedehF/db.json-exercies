@@ -9,25 +9,25 @@
   "services": [
     {
       "id": 1,
-      "image": "./src/image/service1.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/service1.png",
       "title": "برنامه تمرینی",
       "description": "ارائه بهترین برنامه‌های تمرینی همراه با توضیحات کامل ویژه همه سطوح ورزشی"
     },
     {
       "id": 2,
-      "image": "./src/image/service2.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/service2.png",
       "title": "رژیم غذایی",
       "description": "ارائه آنلاین رژیمهای غذایی ویژه ورزشکاران و افرادی که دوستدار سلامتی هستند"
     },
     {
       "id": 3,
-      "image": "./src/image/service3.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/service3.png",
       "title": "مکمل های بدنسازی",
       "description": "ارائه آنلاین رژیمهای غذایی ویژه ورزشکاران و افرادی که دوستدار سلامتی هستند"
     },
     {
       "id": 4,
-      "image": "./src/image/service4.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/service4.png",
       "title": " برنامه تمرینی",
       "description": "ارائه بهترین برنامه‌های تمرینی همراه با توضیحات کامل ویژه همه سطوح ورزشی"
     }
@@ -35,7 +35,7 @@
   "products": [
     {
       "id": 1,
-      "image": "./src/image/products1.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/products1.png",
       "title": "پروتئین وی یوروویتال 1000 گرم",
       "price": "قیمت",
       "rate": "۱/۸۰۰/۰۰۰ تومان"
@@ -43,7 +43,7 @@
 
     {
       "id": 2,
-      "image": "./src/image/products2.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/products2.png",
       "title": "پروتئین وی یوروویتال 1000 گرم",
       "price": "قیمت",
       "rate": "۹/۶۰/۰۰۰ تومان"
@@ -51,7 +51,7 @@
 
     {
       "id": 3,
-      "image": "./src/image/products3.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/products3.png",
       "title": "پروتئین وی یوروویتال 1000 گرم",
       "price": "قیمت",
       "rate": "۱/۸۰۰/۰۰۰ تومان"
@@ -59,7 +59,7 @@
 
     {
       "id": 4,
-      "image": "./src/image/products3.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/products3.png",
       "title": "پروتئین وی یوروویتال 1000 گرم",
       "price": "قیمت",
       "rate": "۱/۸۰۰/۰۰۰ تومان"
@@ -68,19 +68,19 @@
   "reading": [
     {
       "id": 1,
-      "image": "./src/image/reading1.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/reading1.png",
       "title": "پولدارترین بدنسازهای تاریخ",
       "description": "صنعت بدنسازی گاهی مرموز به نظر می‌رسد، اگر می‌خواهید بدانید چه افرادی در این صنعت، پول‌های حسابی بدست می‌آورند..."
     },
     {
       "id": 2,
-      "image": "./src/image/reading2.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/reading2.png",
       "title": "برنامه تمرینی اینتروال چربی سوزی",
       "description": "تمرینات اینتروال (HIIT) موثرترین روش تمرین برای چربی سوزی و حفظ عضلات است. در ادامه سعی می‌کنم درمورد تمرینات اینتروال بیشتر..."
     },
     {
       "id": 3,
-      "image": "./src/image/reading3.png",
+      "image": "https://sajedehf.github.io/db.json-exercies/public/reading3.png",
       "title": "چقدر مقدار وزنه انتخاب کنم؟",
       "description": "صنعت بدنسازی گاهی مرموز به نظر می‌رسد، اگر می‌خواهید بدانید چه افرادی در این صنعت، پول‌های حسابی بدست می‌آورند با ما همراه باشید."
     }
